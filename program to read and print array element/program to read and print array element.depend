@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1670495975 source:d:\seqential statement\program to read and print array element\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1673067344 source:d:\seqential statement\program to count number of vowels in a string\main.c
+	<stdio.h>
+	<stdlib.h>
+

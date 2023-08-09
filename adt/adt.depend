@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1688192484 source:d:\seqential statement\adt\main.c
+	<stdio.h>
+	<stdlib.h>
+

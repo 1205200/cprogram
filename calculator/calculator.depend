@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1670135093 source:d:\seqential statement\calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1669133783 source:d:\seqential statement\program to accept 1234 and display result as 1 2 3 4\main.c
+	<stdio.h>
+	<stdlib.h>
+

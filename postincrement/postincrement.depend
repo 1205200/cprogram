@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1670078340 source:d:\seqential statement\postincrement\main.c
+	<stdio.h>
+	<stdlib.h>
+

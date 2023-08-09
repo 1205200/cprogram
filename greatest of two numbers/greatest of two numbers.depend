@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1669534627 source:d:\seqential statement\greatest of two numbers\main.c
+	<stdio.h>
+	<stdlib.h>
+

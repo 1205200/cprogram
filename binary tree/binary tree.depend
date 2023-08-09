@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1689068925 source:d:\seqential statement\binary tree\main.c
+	<stdio.h>
+	<stdlib.h>
+

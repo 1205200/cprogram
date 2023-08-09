@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1672842960 source:d:\seqential statement\count the number of digits in a number\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1668590177 source:d:\seqential statement\program to print your name\main.c
+	<stdio.h>
+	<stdlib.h>
+
